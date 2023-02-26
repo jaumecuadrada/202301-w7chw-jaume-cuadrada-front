@@ -1,0 +1,33 @@
+html,
+body {
+  width: 100vw;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #737ead;
+  margin: 0;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-weight: 400;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+a,
+button {
+  color: inherit;
+  text-decoration: none;
+}
